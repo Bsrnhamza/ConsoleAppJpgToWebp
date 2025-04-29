@@ -1,0 +1,9 @@
+1) JpegConvertToWebp.exe yi çalıştırın
+2) Giriş klasörünü girin: Kısmına Jpg uzantılı resimlerinin olduğu dosya yolunu yazın
+3) Çıkış klasörünü girin: Kısmına Webp uzantılı resimlerin nereye koymak istediğinizi seçin
+4) Error Hata log dosyasının kaydedileceği klasörü girin: Buraya image error dosyasını nereye koymasını istediğinizi yazın
+
+1) Run JpegConvertToWebp.exe
+2) Enter the input folder: In the section, write the file path where the Jpg images are located
+3) Enter the output folder: In the section, select where you want to put the Webp images
+4) Enter the folder where the Error log file will be saved: Write where you want the image error file to be placed here
